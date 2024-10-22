@@ -3,9 +3,11 @@
       To perform Exploratory Data Analysis on the given data set.
       
 # EXPLANATION:
+
   The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
   
 # ALGORITHM:
+
 STEP 1: Import the required packages to perform Data Cleansing,Removing Outliers and Exploratory Data Analysis.
 
 STEP 2: Replace the null value using any one of the method from mode,median and mean based on the dataset available.
@@ -22,7 +24,9 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
+
 ## CODING AND OUTPUT
+
 
 ![Screenshot 2024-10-22 082227](https://github.com/user-attachments/assets/2d31d764-4777-4c0a-bb76-d7b6a0389532)
 ![Screenshot 2024-10-22 082405](https://github.com/user-attachments/assets/e1a8549e-9091-47f2-8a31-f8b22092b3bb)
